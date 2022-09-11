@@ -1,0 +1,25 @@
+.app { 
+    background-color: darkslategray;
+    margin: 100px;
+    padding: 40px;
+}
+
+h2 { 
+    text-align: center;
+    color: lavender
+}
+
+h3 { 
+    text-align: center;
+    color: lemonchiffon
+}
+
+Button { 
+    margin: 4rem;
+    padding: 40px; 
+    width: 200px;
+}
+
+.message {
+    color: lemonchiffon
+}
